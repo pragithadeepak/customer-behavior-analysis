@@ -12,14 +12,14 @@ insights. Without proper analysis, businesses fail to understand customer behavi
 and churn risk — leading to poor decision-making and revenue loss.
 
 ## What This Project Covers
-- ✅ Customer dataset ingestion
-- ✅ Data cleaning and preprocessing (missing values, invalid entries, duplicates)
-- ✅ Exploratory Data Analysis (EDA) with visualizations
-- ✅ Customer segmentation (K-Means clustering)
-- ✅ Identification of behavior patterns
-- ✅ Basic predictive model for churn (Logistic Regression)
-- ✅ Visualization of key insights
-- ✅ Business-focused insight report with recommendations
+-  Customer dataset ingestion
+-  Data cleaning and preprocessing (missing values, invalid entries, duplicates)
+-  Exploratory Data Analysis (EDA) with visualizations
+-  Customer segmentation (K-Means clustering)
+-  Identification of behavior patterns
+-  Basic predictive model for churn (Logistic Regression)
+-  Visualization of key insights
+-  Business-focused insight report with recommendations
 
 ## Files
 - `Customer_Behavior_Analysis.ipynb` — the full analysis notebook
