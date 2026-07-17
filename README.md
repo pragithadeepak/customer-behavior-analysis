@@ -4,8 +4,6 @@
 A complete data science project analyzing customer behavior data to understand churn drivers,
 segment customers, and build a predictive model that flags customers at risk of leaving.
 
-Built as part of the RISE Internship — **Data Science & Analytics — Project 1**.
-
 ## Problem Statement
 Companies collect large volumes of customer data but struggle to convert it into actionable
 insights. Without proper analysis, businesses fail to understand customer behavior, preferences,
